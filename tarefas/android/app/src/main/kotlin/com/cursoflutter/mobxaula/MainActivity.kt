@@ -1,4 +1,4 @@
-package com.example.tarefas
+package com.cursoflutter.mobxaula
 
 import io.flutter.embedding.android.FlutterActivity
 

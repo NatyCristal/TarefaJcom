@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616103662426",
+    "project_id": "tarefasjcom",
+    "storage_bucket": "tarefasjcom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616103662426:android:868c424e1206404ea25963",
+        "android_client_info": {
+          "package_name": "com.natal.tarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616103662426-6h4kabbcfsjj3rhbckm31jc5iqb6uomd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALjyTApseIJWWLkYec2ZYpgxE6OOgI66Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616103662426-6h4kabbcfsjj3rhbckm31jc5iqb6uomd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

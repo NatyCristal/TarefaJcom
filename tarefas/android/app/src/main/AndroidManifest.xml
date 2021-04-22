@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.tarefas">
+    package="com.cursoflutter.mobxaula">
    <application
-        android:label="tarefas"
+        android:label="mobxaula"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
